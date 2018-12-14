@@ -31,7 +31,7 @@ $(".js-example-tags").select2({
 });
 ```
 
-Note that when tagging is enabled the user can select from the pre-existing options or create a new option by picking the first choice, which is what the user has typed into the search box so far.
+Note that when tagging is enabled the user can select from the pre-existing options or create a new option by picking the first choice, which is what the user has typed into the search box so far. Tagging is also available for Select2 v4.0 onwards on select elements, for versions older than v4, use it on a text input element instead of a select one.
 
 ## Tagging with multi-value select boxes
 
